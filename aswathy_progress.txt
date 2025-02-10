@@ -1,0 +1,9 @@
+day1 : 06/02/2025
+learn: Basics of html,css and javascript
+description: implemented with the help of chatgpt and google
+day2 : 07/02/2025
+learn: Basics of html,css and javascript
+description: modified
+day2 : 09/02/2025
+learn: Basics of html,css and javascript
+description: whole modified with the help of chatgpt
